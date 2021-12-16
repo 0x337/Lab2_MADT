@@ -1,4 +1,4 @@
-package com.example.lab_2;
+package com.example.LAB2_MADT;
 
 import android.content.Context;
 
